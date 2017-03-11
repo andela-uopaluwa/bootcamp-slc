@@ -2,7 +2,7 @@
 const arith = {
 	aritGeo: function(arr) { 
 		if(Array.isArray(arr)){
-			var dif = arr[1] - arr[0];
+			var diff = arr[1] - arr[0];
 			var ratio = arr[1] / arr[0];
 			var arith = true;var geo = true;
 			if(arr.length > 0){
