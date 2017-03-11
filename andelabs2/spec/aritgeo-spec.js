@@ -7,7 +7,7 @@ var check = require("../app/aritgeo.js");
     describe("Case for an empty array", function() {
 
       it("should return 0 for an empty array", function() {
-        expect(check.artGeo([])).toEqual(0);
+        expect(check.aritGeo([])).toEqual(0);
       });
 
     });
