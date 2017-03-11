@@ -1,5 +1,5 @@
 var check = require("../app/aritgeo.js");
-(function(){
+(function() {
   'use strict';
 
   describe("Determine the sequence of an array of numbers: ", function() {
@@ -78,4 +78,4 @@ var check = require("../app/aritgeo.js");
       });
     })
   });
-});
+})();
